@@ -1,5 +1,9 @@
 # U2Direct - Online Restaurant Delivery Platform
 
+![direct2u](https://github.com/Aljaoor/Direct2U/assets/102248069/1d63b2ca-9d46-4d67-ba22-a6ebe06a179c)
+
+
+
 U2Direct is a web platform designed to facilitate the process of delivering restaurant orders by providing an easy-to-use interface for users to order food from a variety of restaurants. Users can browse and select meals from several different restaurants, track their order status, and provide reviews based on their experiences.
 
 ## Platform Features:
@@ -8,10 +12,14 @@ U2Direct is a web platform designed to facilitate the process of delivering rest
 - **Account Management:** Enabling users to create personal accounts, input delivery details, update them, and manage their orders.
 - **Reviews and Ratings:** Allowing users to provide reviews and ratings about their experiences with restaurants.
 - **Restaurant Management:** Providing a dashboard for restaurant owners to manage menu lists, offers, and track orders.
+- **Multi Language**
+- **Multi permission**
 
 ## Technologies and Tools:
 
 - **PWA Technology:** Providing an advanced web-app experience for all devices without the need for app installation.
+- **Real Time Notifications :** firebase
+- **datatabe server side:** for more fast.
 
 ## How to Use:
 
