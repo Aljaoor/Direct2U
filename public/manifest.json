@@ -1,0 +1,17 @@
+{
+    "name": "Direct2U",
+    "short_name": "Direct2U",
+    "start_url": "/index.php",
+    "background_color": "#6777ef",
+    "description": "Web application for delivery company",
+    "display": "fullscreen",
+    "theme_color": "#d8ab37",
+    "icons": [
+        {
+            "src": "website/assets/images/logo.png",
+            "sizes": "512x512",
+            "type": "image/png",
+            "purpose": "any maskable"
+        }
+    ]
+}

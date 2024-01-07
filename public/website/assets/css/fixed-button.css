@@ -1,0 +1,33 @@
+.fixed-button {
+    position: fixed;
+    bottom: 30px;
+    right: 30px;
+    background-color: #b4840c;
+    color: white;
+    padding: 10px;
+    border-radius: 30%;
+    cursor: pointer;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.2);
+    transition: background-color 0.3s ease-in-out;
+}
+
+.fixed-button:hover {
+    background-color: #e3b640;
+}
+
+/* Adjust font size of the icon */
+.fixed-button i {
+    font-size: 30px;
+}
+
+/* Style for the number of meals */
+.meals-count {
+    position: absolute;
+    top: -5px;
+    right: -5px;
+    background-color: red;
+    color: white;
+    font-size: 14px;
+    padding: 3px 8px;
+    border-radius: 50%;
+}

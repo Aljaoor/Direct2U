@@ -1,0 +1,10 @@
+.fixHref {
+    color: white;
+    text-decoration: none
+}
+.fixCallSvg{
+    margin-top: -2.5ch;
+}
+.container{
+    padding-bottom: 20px;
+}

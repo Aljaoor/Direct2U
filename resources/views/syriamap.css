@@ -1,0 +1,15 @@
+.mapdiv {
+    width: 100%;
+}
+.mapdiv .region {
+    text-align: center;
+    color: #3056ffcb;
+    padding-top: 35px;
+    /* margin-bottom: 0px; */
+}
+.mapdiv svg {
+    width: 100%;
+}
+.mapdiv svg path:hover {
+    fill: #ecac0a;
+}

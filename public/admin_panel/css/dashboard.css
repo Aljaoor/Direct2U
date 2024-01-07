@@ -1,0 +1,15 @@
+/*.badge-danger {*/
+/*    color: #fff;*/
+/*    background-color: #feb139;*/
+/*}*/
+/*.ourColor {*/
+/*    background-color: #ffd966;*/
+/*} */
+
+.table-vcenter tbody tr:nth-child(odd) {
+    background-color: #eff3fd;
+}
+.button-style{
+    width: 10%;
+    border-radius: 10%;
+}
