@@ -19,7 +19,7 @@ U2Direct is a web platform designed to facilitate the process of delivering rest
 
 - **PWA Technology:** Providing an advanced web-app experience for all devices without the need for app installation.
 - **Real Time Notifications :** firebase
-- **datatabe server side:** for more fast.
+- **Datatabe ServerSide:** for more fast.
 
 ## How to Use:
 
